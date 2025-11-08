@@ -9,3 +9,5 @@
   <img src="https://github.com/user-attachments/assets/d52de182-d803-4447-a372-ab3d7dd313a2" alt="截图3" style="width: 24%; height: auto;" />
   <img src="https://github.com/user-attachments/assets/45d09b4a-10ba-4851-b2a3-5feed1ab66ee" alt="截图4" style="width: 24%; height: auto;" />
 </div>
+
+此仓库停止更新，新地址 [NowChat](https://github.com/CikeSeven/NowChat)
