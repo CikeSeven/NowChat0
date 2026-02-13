@@ -1,6 +1,10 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+
+# 此仓库停止更新，新地址 [NowChat](https://github.com/CikeSeven/NowChat)
+
+
 ### 项目只实现了基本的功能，还有很多bug，后面慢慢改
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -10,4 +14,3 @@
   <img src="https://github.com/user-attachments/assets/45d09b4a-10ba-4851-b2a3-5feed1ab66ee" alt="截图4" style="width: 24%; height: auto;" />
 </div>
 
-此仓库停止更新，新地址 [NowChat](https://github.com/CikeSeven/NowChat)
